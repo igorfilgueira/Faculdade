@@ -1,2 +1,2 @@
-# Exercídios Faculdade
+# Exercícios Faculdade
  Algoritimos e lógica de programação em C
